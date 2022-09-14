@@ -1,3 +1,3 @@
-function random(min, max){
-    Math.floor(min + Math.random() * (max - min))
+export function random(min, max){
+    return Math.floor(min + Math.random() * (max - min))
 }
