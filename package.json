@@ -16,5 +16,8 @@
     "url": "https://github.com/Zoltan102/JS-Project/issues"
   },
   "homepage": "https://github.com/Zoltan102/JS-Project#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
